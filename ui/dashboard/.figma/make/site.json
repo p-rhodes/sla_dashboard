@@ -1,0 +1,10 @@
+{
+  "description": "Monitor the health and status of server clusters with interactive indicators showing server responsiveness and detailed job info for efficient management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
